@@ -24,7 +24,6 @@ service quality improvement, and strategic workforce planning across Baghdad and
 3) How does the performance of the Baghdad branch differ from that of the Basra branch in terms of profits and ticket processing speed?
    (Net Profit): Identical in both branches, with each branch achieving 4K.
    (SLA Status): The Baghdad branch outperformed, with its employees meeting deadlines for problem resolution at 75%,
-   
    while the Basra branch's rate was only 66.67%.
    <p align="center">
       <img src="Q3.1.png" width="400">
